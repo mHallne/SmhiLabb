@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.csproj", "{4D132621-29F5-4F7E-948D-50272A9B5E12}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherForecastLabb", "ConsoleApplication2\WeatherForecastLabb.csproj", "{4D132621-29F5-4F7E-948D-50272A9B5E12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherForecastLabb-NUnit", "WeatherForecastLabb-NUnit\WeatherForecastLabb-NUnit.csproj", "{6488D9B5-8712-417E-B4D8-8CFCB4AA29D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4D132621-29F5-4F7E-948D-50272A9B5E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D132621-29F5-4F7E-948D-50272A9B5E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D132621-29F5-4F7E-948D-50272A9B5E12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6488D9B5-8712-417E-B4D8-8CFCB4AA29D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6488D9B5-8712-417E-B4D8-8CFCB4AA29D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6488D9B5-8712-417E-B4D8-8CFCB4AA29D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6488D9B5-8712-417E-B4D8-8CFCB4AA29D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
